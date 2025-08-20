@@ -1,0 +1,3 @@
+[submodule "ml-with-apache-spark"]
+	path = ml-with-apache-spark
+	url = https://github.com/adipolak/ml-with-apache-spark
