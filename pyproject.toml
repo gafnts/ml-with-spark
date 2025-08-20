@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "ml-with-spark"
 version = "0.1.0"
-description = ""
+description = "Tutorials from Scaling Machine Learning with Spark, by Adi Polak"
 authors = ["Gabriel Fuentes <gafnts@gmail.com>"]
 readme = "README.md"
 package-mode = false
